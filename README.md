@@ -35,6 +35,6 @@ Each user has their **own persistent conversation history**.
 
 - **Ollama** running locally at `http://localhost:11434` with the **mistral** model downloaded  
 - `discord.py` version **1.7.3** (Newer versions **do not** support self bots)
-
+- python 3.8
 ---
 
