@@ -23,7 +23,6 @@ Each user has their **own persistent conversation history**.
 |----------------------|----------------------------------------------------------|
 | `!memory`            | View your conversation history with the bot              |
 | `!memory @user`      | View another user's conversation stats                   |
-| `!forget`            | Delete **your** conversation history                     |
 | `!forget @user`      | Delete **another user's** history                        |
 | `!clear`             | Clear **all** user histories from the system             |
 | `!model`             | Show the current Ollama model                            |
