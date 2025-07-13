@@ -1,4 +1,4 @@
-# Self botting with local AI
+# Self botting with local AI (NO GUI VERSION)
 
 A Discord bot that responds with a **custom prompt** and maintains **user conversation history** using **Ollama** for AI-generated replies.
 
